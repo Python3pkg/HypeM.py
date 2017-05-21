@@ -207,4 +207,4 @@ def parse_assertion(param_name, allowed_values):
     return statement
 
 if __name__ == '__main__':
-    print(parse_all_docs())
+    print((parse_all_docs()))
